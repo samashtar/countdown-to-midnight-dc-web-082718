@@ -10,7 +10,7 @@ end
 
 def countdown_with_sleep (integer)
   integer = 5
-  while number > 0 
+  while integer > 0 
   puts "#{integer}"
   integer -= 1
   sleep (1)
